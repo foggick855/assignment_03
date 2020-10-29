@@ -1,0 +1,100 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+.lightpink{
+color: #ff6f69;
+/*lightpink*/
+
+}
+.darkpink{
+color: #d96459;
+}
+.font1{
+	font-family: 'Syne Mono', monospace;
+}
+h3{
+color: #96ceb4;
+/*skyblue*/
+}
+h4{
+color: #588c7e;
+/*darkblue*/
+}
+.bg-darkblue{
+background-color: #588c7e;
+}
+.textwhite{
+color: white;
+}
+.container{
+background-color: #ffeead;
+padding: 0px;
+font-family: 'Architects Daughter', cursive;
+}
+.breadcrumb{
+	background-color: #96ceb4 !important;
+	border-bottom: solid 3px #588c7e;
+
+}
+.titlediv{
+height: 100px;
+background-color: #96ceb4;
+border-bottom: solid 3px #588c7e;
+border-top: solid 10px #588c7e;
+color: white;
+font-family: 'Syne Mono', monospace;
+font-size: 40px;
+line-height: 100px;
+letter-spacing: 5px;
+}
+.alert1{
+width: 400px;
+text-align: right;
+margin:0px 0px 40px auto;
+}
+.aligncenter{
+align-items: center;
+text-align: center;
+}
+.cardbg{
+background-color: white;
+margin:20px auto;
+padding:10px;
+width: 150px;
+border-radius: 10px;
+}
+a{
+color: white;
+text-decoration:none;
+}
+a:hover{
+color: white;
+text-decoration:none;
+}
+.cardbg i{
+margin-top: 15px;
+margin-bottom: 10px;
+color: #ff6f69;
+color: linear-gradient(to right, #ff6f69 29%, #cc0000 106%);
+}
+.cardbg button{
+margin-bottom: 15px;
+}
+h1 i {
+font-size: 40px;
+}
+footer{
+height: 20px;
+background-color: #96ceb4;
+border-bottom: solid 1px #588c7e;
+border-top: solid 2px #588c7e;
+color: white;
+font-size: 12px;
+margin-top: 30px;
+}
+.fa-trademark{
+font-size: 6px;
+position: relative;
+bottom: 4px;
+}
